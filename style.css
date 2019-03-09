@@ -1,0 +1,58 @@
+body{
+  background: rgb(180,180,180);
+  color: white;
+  font-size: 15px;
+  text-align: center;
+
+}
+h1{
+  font-family: Oswald;
+  color: yellow;
+  font-weight: lighter;
+  font-size: 50px;
+  text-shadow: 1px black
+  
+}
+h2 {
+  font-family: Playfair;
+  color: red;
+  font-weight: lighter;
+  font-size: 20px;
+  padding: 30px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+#banner {
+  background-image: url("images/beach.png");
+  background-size:1500px;
+  padding: 150px;  
+ }
+ 
+ #footer {
+  background-color: lightgray;
+  padding: 30px;  
+ } 
+
+  .card { 
+  padding: 30px; 
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: #d5daeb;
+  text-align: center;
+  }
+
+#footer a{
+  color: white;
+}
+
+#footer a:hover{
+  color:green;
+
+}
+
+}
